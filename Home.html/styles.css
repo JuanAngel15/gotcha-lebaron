@@ -1,0 +1,144 @@
+.LeBaron p  {
+    width: 60%;
+}
+
+.styles-texto{
+    width: 30%;
+    display:flex;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    text-align: center;
+    padding-left: 30%;
+    font-size: 70%;
+}
+
+.styles-de-imagenes img {
+    padding-left: 18%;
+    width: 57%;
+    
+}
+
+.Botones {
+    padding-left: 0%;
+    text-align: center;
+    width: 100%;
+    height: 30%;
+    line-height: 400%;
+    font-size: 150%;
+   background-color:midnightblue ;
+}
+
+
+/* como puedo jugar  */
+
+.LeBaron-2 p  {
+    width: 60%;
+}
+
+.styles-texto-2{
+    width: 30%;
+    display:flex;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    text-align: center;
+    padding-left: 30%;
+    font-size: 70%;
+}
+
+.styles-de-imagenes-2 img {
+    padding-left: 18%;
+    width: 57%;
+}
+
+.Botones-2 {
+    padding-left: 25%;
+    text-align: center;
+    width: 40%;
+    height: 30%;
+    line-height: 400%;
+    font-size: 150%;
+   
+}
+
+
+
+
+/* cuales son los equipos */
+
+.LeBaron-3 p  {
+    width: 60%;
+}
+
+.styles-texto-3 > h1 { 
+    width: 30%;
+    display:flex;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    text-align: center;
+    padding-left: 30%;
+    font-size: 150%;
+}
+
+.styles-de-imagenes-3 img {
+    padding-left: 18%;
+    width: 57%;
+    
+}
+
+.Botones-3 {
+    padding-left: 25%;
+    text-align: center;
+    width: 40%;
+    height: 30%;
+    line-height: 400%;
+    font-size: 150%;
+   
+}
+
+
+
+
+/* cuales son las instalaciones */
+
+
+
+.LeBaron-4 p  {
+    width: 60%;
+}
+
+.styles-texto-4{
+    width: 30%;
+    display:flex;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    text-align: center;
+    padding-left: 30%;
+    font-size: 70%;
+}
+
+.styles-de-imagenes-4 img {
+    padding-left: 18%;
+    width: 57%;
+    
+}
+
+.Botones-4 {
+    padding-left: 25%;
+    text-align: center;
+    width: 40%;
+    height: 30%;
+    line-height: 400%;
+    font-size: 150%;
+  
+
+}
+
+
